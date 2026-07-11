@@ -10,7 +10,8 @@ public class ten {
         char ch = sc.next().charAt(0);
         
         double decimal = sc.nextDouble();
-        String name = sc.next();
+        sc.nextLine();
+        String name = sc.nextLine();
 
         System.out.println(num);
         System.out.println(name);
