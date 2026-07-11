@@ -1,8 +1,8 @@
 // Print "Hello World".
 
-package Variables_DataTypes;
+package variablesdatatypes;
 
-public class question_1 {
+public class one {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
