@@ -1,3 +1,5 @@
+// Print "Hello World".
+
 package Variables_DataTypes;
 
 public class question_1 {
